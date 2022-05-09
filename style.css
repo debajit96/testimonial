@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.testimonial {
+  background-color: brown;
+  text-align: center;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+img {
+  width: 10%;
+  border-radius: 100%;
+  margin-top: 2rem;
+  margin-right: 1rem;
+}
